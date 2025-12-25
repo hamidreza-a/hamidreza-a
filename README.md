@@ -39,7 +39,8 @@ Currently focusing on improving my skills in **Python, Finance, and Data Science
 
 ### 📫 How to reach me
 
-- 💼 LinkedIn: [your-link](https://www.linkedin.com/in/ahmd8/)
+- 💼 LinkedIn: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>](https://www.linkedin.com/in/ahmd8/)
+
 
 ---
 
