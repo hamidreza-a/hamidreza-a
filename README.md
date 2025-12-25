@@ -1,7 +1,5 @@
 <h2 align="center">Hi there 👋, Welcome!</h2>
 
-
-
 ---
 
 ### 👨‍🎓 About Me  
