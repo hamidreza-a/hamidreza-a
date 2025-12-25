@@ -4,8 +4,7 @@
 
 ---
 
-### 👨‍🎓 About Me
-Hello! 👋  
+### 👨‍🎓 About Me  
 My name is **Hamidreza Ahmadi**.  
 I am a **Master's graduate in Economics (Financial Economics)** from **Carleton University**, with strong interest in **Data Analysis, Financial Modeling, and Machine Learning**.
 
@@ -39,9 +38,8 @@ Currently focusing on improving my skills in **Python, Finance, and Data Science
 ---
 
 ### 📫 How to reach me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: your-link
-- 🐙 GitHub: your-username
+
+- 💼 LinkedIn: [your-link](https://www.linkedin.com/in/ahmd8/)
 
 ---
 
