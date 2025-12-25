@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome!</h2>
 
-![banner](https://via.placeholder.com/1000x300.png?text=Your+Banner+Here)
+
 
 ---
 
