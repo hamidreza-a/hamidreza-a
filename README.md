@@ -15,7 +15,7 @@ Currently focusing on improving my skills in **Python, Finance, and Data Science
 - 📊 Data Analysis
 - 💼 Financial Modeling
 - 📈 Econometrics & Statistics
-- 🤖 Machine Learning (beginner – intermediate)
+- 🤖 Machine Learning
 
 ---
 
