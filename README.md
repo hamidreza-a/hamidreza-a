@@ -7,7 +7,7 @@ My name is **Hamidreza Ahmadi**.
 I am a **Master's graduate in Economics (Financial Economics)** from **Carleton University**, with strong interest in **Data Analysis, Financial Modeling, and Machine Learning**.
 
 I enjoy learning, solving real-world problems using data, and building useful tools and insights.  
-Currently focusing on improving my skills in **Python, Finance, and Data Science**.
+
 
 ---
 
